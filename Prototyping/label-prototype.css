@@ -6,7 +6,7 @@
 
 .eu-energy-label-class {
   position: relative;
-  width: 100;
+  width: 100%;
   font-family: sans-serif;
 }
 .eu-energy-label-class span {
@@ -109,7 +109,7 @@
 }
 .eu-energy-label-class div.a {
   background: #3b7634;
-  width: 50px;
+  width: 15%;
 }
 .eu-energy-label-class div.a:before {
   border-left: 8px solid #3b7634;
@@ -119,7 +119,7 @@
 }
 .eu-energy-label-class div.b {
   background: #5da436;
-  width: 65px;
+  width: 20%;
 }
 .eu-energy-label-class div.b:before {
   border-left: 8px solid #5da436;
@@ -129,7 +129,7 @@
 }
 .eu-energy-label-class div.c {
   background: #a3cf2a;
-  width: 80px;
+  width: 25%;
 }
 .eu-energy-label-class div.c:before {
   border-left: 8px solid #a3cf2a;
@@ -139,7 +139,7 @@
 }
 .eu-energy-label-class div.d {
   background: #f6df1b;
-  width: 95px;
+  width: 30%;
 }
 .eu-energy-label-class div.d:before {
   border-left: 8px solid #f6df1b;
@@ -149,7 +149,7 @@
 }
 .eu-energy-label-class div.e {
   background: #f29020;
-  width: 110px;
+  width: 35%;
 }
 .eu-energy-label-class div.e:before {
   border-left: 8px solid #f29020;
@@ -159,7 +159,7 @@
 }
 .eu-energy-label-class div.f {
   background: #eb422c;
-  width: 125px;
+  width: 40%;
 }
 .eu-energy-label-class div.f:before {
   border-left: 8px solid #eb422c;
@@ -169,7 +169,7 @@
 }
 .eu-energy-label-class div.g {
   background: #ea2039;
-  width: 140px;
+  width: 45%;
 }
 .eu-energy-label-class div.g:before {
   border-left: 8px solid #ea2039;
