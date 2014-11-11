@@ -9,6 +9,7 @@
   width: 100%;
   font-family: sans-serif;
 }
+
 .eu-energy-label-class span {
   display: block;
   position: relative;
@@ -16,6 +17,10 @@
   background: #000;
   width: 30px;
   height: 30px;
+}
+
+.eu-energy-label-class span.a1 {
+  top: 0px;
 }
 .eu-energy-label-class span.a {
   top: 0px;
@@ -59,6 +64,9 @@
   color: #fff;
   font-size: 30px;
   text-transform: uppercase;
+}
+.eu-energy-label-class span.a1:after {
+  content: ' a ';
 }
 .eu-energy-label-class span.a:after {
   content: ' a ';
@@ -107,10 +115,22 @@
   /*text-shadow: 0 0 2px #000;*/
   text-transform: uppercase;
 }
+.eu-energy-label-class div.a1 {
+  background: #3b7634;
+  width: 10%;
+}
 .eu-energy-label-class div.a {
   background: #3b7634;
   width: 15%;
 }
+
+.eu-energy-label-class div.a1:before {
+  border-left: 8px solid #3b7634;
+}
+.eu-energy-label-class div.a1:after {
+  content: ' a+ ';
+}
+
 .eu-energy-label-class div.a:before {
   border-left: 8px solid #3b7634;
 }
