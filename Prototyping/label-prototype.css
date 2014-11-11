@@ -51,108 +51,71 @@
 .eu-energy-label-class div.a3 {
   background: #01a652;
   width: 25%;
+  padding-left: 4px;
+  color: white;
 }
 .eu-energy-label-class div.a3:before {
   border-left: 8px solid #01a652;
-}
-.eu-energy-label-class div.a3:after {
-  content: 'a+++';
 }
 
 .eu-energy-label-class div.a2 {
   background: #50b849;
   width: 28%;
+  padding-left: 4px;
+  color: white;
 }
 .eu-energy-label-class div.a2:before {
   border-left: 8px solid #50b849;
-}
-.eu-energy-label-class div.a2:after {
-  content: 'a++';
 }
 
 .eu-energy-label-class div.a1 {
   background: #c0d731;
   width: 31%;
+  padding-left: 4px;
+  color: white;
 }
 .eu-energy-label-class div.a1:before {
   border-left: 8px solid #c0d731;
-}
-.eu-energy-label-class div.a1:after {
-  content: ' a+ ';
 }
 
 .eu-energy-label-class div.a {
   background: #fef200;
   width: 33%;
+  padding-left: 4px;
+  color: white;
 }
 .eu-energy-label-class div.a:before {
   border-left: 8px solid #fef200;
-}
-.eu-energy-label-class div.a:after {
-  content: ' a ';
 }
 
 .eu-energy-label-class div.b {
   background: #fcb913;
   width: 36%;
+  padding-left: 4px;
+  color: white;
 }
 .eu-energy-label-class div.b:before {
   border-left: 8px solid #fcb913;
 }
-.eu-energy-label-class div.b:after {
-  content: ' b ';
-}
+
 .eu-energy-label-class div.c {
   background: #f37020;
   width: 39%;
+  padding-left: 4px;
+  color: white;
 }
 .eu-energy-label-class div.c:before {
   border-left: 8px solid #f37020;
 }
-.eu-energy-label-class div.c:after {
-  content: ' c ';
-}
+
 .eu-energy-label-class div.d {
   background: #ec1c24;
   width: 42%;
+  padding-left: 4px;
+  color: white;
 }
 .eu-energy-label-class div.d:before {
   border-left: 8px solid #ec1c24;
-}
-.eu-energy-label-class div.d:after {
-  content: ' d ';
-}
-.eu-energy-label-class div.e {
-  background: #ec1c24;
-  width: 45%;
-}
-.eu-energy-label-class div.e:before {
-  border-left: 8px solid #ec1c24;
-}
-.eu-energy-label-class div.e:after {
-  content: ' e ';
-}
-
-.eu-energy-label-class div.f {
-  background: #ec1c24;
-  width: 48%;
-}
-.eu-energy-label-class div.f:before {
-  border-left: 8px solid #ec1c24;
-}
-.eu-energy-label-class div.f:after {
-  content: ' f ';
-}
-
-.eu-energy-label-class div.g {
-  background: #ec1c24;
-  width: 51%;
-}
-.eu-energy-label-class div.g:before {
-  border-left: 8px solid #ec1c24;
-}
-.eu-energy-label-class div.g:after {
-  content: ' g ';
 }
 
 .euflag {
