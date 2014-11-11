@@ -126,3 +126,11 @@
  display: inline-block;
  border: 0px;
 }
+
+.eu-energy-label-header-energ {
+    display: inline-block;
+    background: #00adef;
+    width:80%;
+    height:50px;
+    color: white;
+}
