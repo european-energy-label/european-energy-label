@@ -1,3 +1,12 @@
+@font-face {
+   font-family: 'Carlito';
+   src: url(fonts/carlito-bold-webfont.eot);
+   src: url('fonts/carlito-bold-webfont.eot?#iefix') format('embedded-opentype'),  /* IE6-IE8 */
+      url('fonts/carlito-bold-webfont.woff') format('woff'),             /* Moderne Browser */
+      url('fonts/carlito-bold-webfont.ttf') format('truetype'),     /* Safari, Android, iOS */
+      url('fonts/carlito-bold-webfont.svg#svgFontName') format('svg'); /* Ältere iOS-Geräte */
+}
+
 .eu-energy-label-container {
     border: 6px solid #00adef;
     border-radius: 15px;
@@ -5,15 +14,12 @@
     max-width: 400px;
     width: 100%;
     display: block;
+    font-family: 'Carlito', sans-serif
 }
 
 .eu-energy-label-header {
     height: 50px;
     margin-bottom: 15px;
-}
-
-.eu-energy-label-class {
-  font-family: sans-serif;
 }
 
 .eu-energy-label-class div {
